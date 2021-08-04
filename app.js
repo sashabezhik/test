@@ -1,1 +1,1 @@
-console.log("GOOD")
+console.log("not good")
